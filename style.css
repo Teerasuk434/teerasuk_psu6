@@ -4,3 +4,7 @@ picture {
     margin-right: auto;
     width: 40%;
   }
+
+.content{
+    display: inline-block;
+}
