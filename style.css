@@ -13,11 +13,13 @@
   padding: 10px;
   justify-content: start;
   text-align: start;
+  width: 70%;
 }
 
 .align-center{
   justify-content: center;
   text-align: center;
+  width: 30%;
 }
 
 .title{
