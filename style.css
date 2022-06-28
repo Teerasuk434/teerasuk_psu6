@@ -9,5 +9,21 @@
 }
 
 .align-left{
+  vertical-align: top;
+  padding: 10px;
   justify-content: start;
+  text-align: start;
+}
+
+.align-center{
+  justify-content: center;
+  text-align: center;
+}
+
+.title{
+  background-color:#3498DB;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  box-shadow: 2px 2px 2px 2px #888888;
 }
