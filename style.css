@@ -6,3 +6,7 @@
     vertical-align: middle;
     text-align: center;
 }
+
+.link-underline {
+    text-decoration: none;
+  }
