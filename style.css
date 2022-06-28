@@ -3,6 +3,13 @@ picture {
     margin-left: auto;
     margin-right: auto;
     width: 40%;
+    border-radius: 50%;
+  }
+
+  .radius{
+    width: 125px;
+    height: 150px;
+    border-radius: 50%;
   }
 
 .content{
