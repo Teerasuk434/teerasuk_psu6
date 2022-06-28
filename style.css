@@ -31,3 +31,8 @@
 .text{
   margin-left: 25px;
 }
+
+.text-name{
+  font-size: 30px;
+  color:#3498DB;
+}
