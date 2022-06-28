@@ -5,7 +5,7 @@
   }/*......*/
 
 .content{
-  width: 80%;
+  width: 100%;
   margin:auto;
   float:left;
 }
@@ -13,11 +13,7 @@
 .align-left{ /* กล่องขวา */
   vertical-align: top;
   display: inline-block;
-  /* background-color: gray; */
-  width: 69%;
-  /* padding-left: 20px;
-  padding-right: 20px; */
-  clear: both;
+  background-color: gray;
 }
 
 .align-center{ /* กล่องซ้าย */
@@ -25,9 +21,7 @@
   justify-content: center;
   text-align: center;
   display: inline-block;
-  /* background-color: gray; */
-  width: 20%;
-  clear: both;
+  background-color: gray;
 }
 
 .title{
@@ -41,7 +35,7 @@
 }
 
 .picture{
-  /* background-color: green; */
+  background-color: green;
   padding: 10px;
 }
 
