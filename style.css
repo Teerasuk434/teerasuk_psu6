@@ -1,44 +1,8 @@
- .radius{
-  width: 125px;
-  height: 150px;
-  border-radius: 50%;
-  }/*......*/
-
-.content{
-  width: 100%;
-  margin:auto;
-  float:left;
-}
-
-.align-left{ /* กล่องขวา */
-  vertical-align: top;
-  display: inline-block;
-  background-color: gray;
-}
-
-.align-center{ /* กล่องซ้าย */
-  vertical-align:middle;
-  justify-content: center;
-  text-align: center;
-  display: inline-block;
-  background-color: gray;
-}
-
-.title{
-  background-color:#3498DB;
-  color: white;
-  text-align: center;
-  box-shadow: 2px 2px 2px 2px #888888;
-  margin:auto;
-  margin-top:5px;
-  width: 95%;
-}
-
-.picture{
-  background-color: green;
-  padding: 10px;
-}
-
 .text{
-  margin-left: 30px;
+    margin-left: 25px;
+}
+
+.profile{
+    vertical-align: middle;
+    text-align: center;
 }
